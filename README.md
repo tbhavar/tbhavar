@@ -94,7 +94,13 @@ I am a **Tech-Savvy Chartered Accountant** based in Nashik, Maharashtra, special
 ---
 
 <p align="center">
-  <em>“Programming isn’t about what you know; it’s about what you can figure out.” - Chris Pine, Learn to Program</em>
+  <table>
+    <tr>
+      <td align="center">
+        <em>“Programming isn’t about what you know; it’s about what you can figure out.” - Chris Pine, Learn to Program</em>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
