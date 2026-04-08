@@ -82,7 +82,7 @@ I am a **Tech-Savvy Chartered Accountant** based in Nashik, Maharashtra, special
 <p align="center">
   <a href="https://tbhavar.in"><img src="https://img.shields.io/badge/Website-tbhavar.in-003366?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/tanmay-bhavar-752157b8/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tanmay@tbhavar.in"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:catanmaybhavar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
