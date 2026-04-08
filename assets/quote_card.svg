@@ -1,0 +1,18 @@
+<svg width="600" height="154" viewBox="0 0 600 154" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="154" rx="10" fill="#1a1b27"/>
+  
+  <!-- Left Quote Icon -->
+  <text fill="#bf91f3" font-family="'Poppins', sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana" font-size="32" font-weight="bold" x="20" y="45">“</text>
+  
+  <!-- Quote Text (Wrapped) -->
+  <text fill="#38bdae" font-family="'Poppins', sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana" font-style="italic" font-size="20" x="45" y="55">
+    <tspan x="45" dy="1.2em">Programming isn’t about what you know;</tspan>
+    <tspan x="45" dy="1.4em">it’s about what you can figure out.</tspan>
+  </text>
+  
+  <!-- Right Quote Icon -->
+  <text fill="#bf91f3" font-family="'Poppins', sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana" font-size="32" font-weight="bold" x="380" y="110">”</text>
+  
+  <!-- Author -->
+  <text fill="#70a5fd" font-family="'Poppins', sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana" font-size="16" text-anchor="end" x="570" y="130">- Chris Pine, Learn to Program</text>
+</svg>
