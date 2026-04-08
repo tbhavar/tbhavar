@@ -94,7 +94,7 @@ I am a **Tech-Savvy Chartered Accountant** based in Nashik, Maharashtra, special
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <em>“Programming isn’t about what you know; it’s about what you can figure out.” - Chris Pine, Learn to Program</em>
 </p>
 
 <p align="center">
